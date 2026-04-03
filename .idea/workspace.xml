@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa184797-a67f-4362-b96c-1bc9afaf812e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Automation_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/inventory_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_saucedemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utils/driver_setup.py" afterDir="false" />
-    </list>
+    <list default="true" id="aa184797-a67f-4362-b96c-1bc9afaf812e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +36,7 @@
     "Python tests.Python tests for test_saucedemo.test_checkout_with_valid_details.executor": "Run",
     "Python tests.Python tests for test_saucedemo.test_logout.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager" selected="Python tests.Python tests for test_saucedemo.test_checkout_with_valid_details">
