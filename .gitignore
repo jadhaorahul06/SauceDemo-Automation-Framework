@@ -5,3 +5,5 @@ __pycache__/
 *.png
 report.html
 .idea/
+drivers/
+*.exe
